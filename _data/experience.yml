@@ -1,10 +1,42 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Beat
+  link: https://www.facebook.com/beat.bme/
+  job_title:  Public relation and Media member 
+  dates: ( September 2018 - September 2019)
   quote: >
-   Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of role
+   Beat is a student activity in cairo university for biomedical engineering students
+  #description: | # this will include new lines to allow paragraphs
+    #Description of role
+
+- layout: left
+  company: EL KASR ALAINY hospital
+  job_title: Biomedical enginnering trainer
+  quote: >
+    EL KASR ALAINY is one of the biggest hospital in Egypt.
+  qualification: | # this will include new lines to allow paragraphs
+    Two months training on medical equipments.
+
+- layout: left
+  company: IEEE CUSB
+  link: https://www.facebook.com/IEEECUSB/
+  job_title: IT member
+  dates: (September 2019 - present)
+  quote: >
+   IEEE Cairo University Student Branch
+  #description: | # this will include new lines to allow paragraphs
+    #Creating website for the foundation
+
+- layout: left
+  company: K vector foundation
+  link: https://www.facebook.com/kvectorfoundation/
+  job_title: Internal relation member
+  #dates: Date Range (eg. November 2016 - present)
+  quote: >
+   K vector is a student activity in faculty of enginnering Cairo university
+  #description: | # this will include new lines to allow paragraphs
+   # Description of role
+
+
+
+        

@@ -6,8 +6,8 @@ repository: Git repository where your resume will be hosted, only required if yo
 name: Remon Albear
 title: Biomedical and Softawre enginnering student
 email: remonalbear522@gmail.com
-phone: 01121963376
-website: Your websit
+# phone: 01121963376
+# website: Your websit
 
 # Social links
 # twitter_username: jekyllrb
@@ -23,35 +23,51 @@ linkedin_username: remon-albear-496b05155/
 # googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_title: About Me  #(Use this to override about section title)
+about_profile_image: ./assets/remon.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+ Hello,I'm Remon Albear,I'm <mark>biomedical</mark> enginnering student at Cairo university.I'm interested
+ in <mark>software</mark> field especially in web development, embedded systems and machine learning.
+ I'm a self learner i like to learn more about every thing and i will continue learning.
+ I'm also working in the printing industry (digital and offset printing) and i have experiance in this field more than 8 years.
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
-
+#Education Section
+#Education: Education and Training  #(Use this to override about education section title)
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
 
-# Education Section
-# education_title: Education #(Use this to override about education section title)
+
 
 # More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
+more_title: Skills and Interests #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+ <h1>Skills</h1> 
+  - <h2> Software </h2> 
+   - Web development: html ,css ,javascript ,Reactjs, Nodejs ,Flask
+   - Embedded systems: C programming language , AVR
+   - C++ programming language
+   - OOP
+   - Data structure and algorithms
+   - Machine learning
+   - Python programming language 
+   - R programming language 
+   - Arduino 
+  - <h2>Photo Editing</h2>
+   - PhotoShop  
+  - <h2>Microsoft office</h2>
+   - Word
+   - Power point
+  - <h2>Languages</h2>
+   - Arabic (native language)
+   - English (very good)
+   - French (fair)
+   - Germany (fair)
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)

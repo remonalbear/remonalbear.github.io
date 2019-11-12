@@ -23,11 +23,8 @@ linkedin_username: remon-albear-496b05155
 # googleplus_username: +jekyll
 
 # About Section
-<<<<<<< HEAD
 about_title: About Me  #(Use this to override about section title)
-=======
 # about_title: About Me (Use this to override about section title)
->>>>>>> 2986efb5c3dacb2738676574368eb2b49309293d
 about_profile_image: ./assets/remon.jpg
 about_content: | # this will include new lines to allow paragraphs
  Hello,I'm Remon Albear,I'm <mark>biomedical</mark> enginnering student at Cairo university.I'm interested

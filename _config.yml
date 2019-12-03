@@ -4,7 +4,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Remon Albear
-title: Biomedical and Softawre enginnering student
+title: Biomedical and Softawre engineering student
 email: remonalbear522@gmail.com
 # phone: 01121963376
 # website: Your websit
@@ -39,6 +39,8 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
+plog_title: Project Plog
+plog: this is test
 
 
 
@@ -64,8 +66,8 @@ more_content: | # this will include new lines to allow paragraphs
   - <h2>Languages</h2>
    - Arabic (native language)
    - English (very good)
-   - French (fair)
-   - Germany (fair)
+   - French (weak)
+   - Germany (weak)
 
 # Footer
 footer_show_references: false

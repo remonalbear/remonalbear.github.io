@@ -1,7 +1,6 @@
 # Site
 repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
-
 # Personal info
 name: Remon Albear
 title: Biomedical and Softawre engineering student
@@ -40,7 +39,7 @@ about_content: | # this will include new lines to allow paragraphs
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
 plog_title: Project Plog
-plog: this is test
+plog: this is our  project blog you can see by clicking the link below
 
 
 
